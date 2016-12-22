@@ -6,3 +6,5 @@ _This is a File Server prototype built in Node.js (node-file-manager and cloudcm
 > * Install npm (Node Package manager)
 > * Clone the repository
 > * Run the python script _run.py_
+
+Admin user name and password will be initialzed during installation process
